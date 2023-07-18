@@ -14,7 +14,7 @@ This is a Restaurant Theme Website Template, designed using html and css. It was
 
 
 ## Support Developer
-1. Subscribe & Share my YouTube Channel - (https://www.youtube.com/channel/UCaqXokF0K_S2gPIdQWxTXxg)
+1. [Subscribe & Share my YouTube Channel](https://www.youtube.com/channel/UCaqXokF0K_S2gPIdQWxTXxg)
 2. Add a Star 🌟  to this 👆 Repository
 
 ## Donate
